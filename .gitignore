@@ -1,0 +1,13 @@
+__pycache__
+chroma_db_storage
+dataset
+Gemma-2b-it-medibot
+Gemma-2b-it-medibot2
+logs
+peft
+peft2
+processed_medical_chat_combined_dataset
+processed_medical_chat_dataset
+Test
+*.deb
+*.h5
